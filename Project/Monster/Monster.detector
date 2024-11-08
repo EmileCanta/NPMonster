@@ -1,0 +1,16 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Alias Theta
+ Action= Copy
+ Value= 30 43 56 69 82 95 108
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Alias Phi
+ Action= Copy
+ Value= 30 50 70 90 110 130 150
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Monster
+ R= 1668.5 mm
+ THETA= @Theta deg
+ PHI= @Phi deg
+ Shape= Cylindrical
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+

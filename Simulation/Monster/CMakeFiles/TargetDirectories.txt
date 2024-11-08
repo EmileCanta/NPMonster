@@ -1,0 +1,3 @@
+/vol0/nptool/NPSimulation/Detectors/Monster/CMakeFiles/rebuild_cache.dir
+/vol0/nptool/NPSimulation/Detectors/Monster/CMakeFiles/edit_cache.dir
+/vol0/nptool/NPSimulation/Detectors/Monster/CMakeFiles/NPSMonster.dir

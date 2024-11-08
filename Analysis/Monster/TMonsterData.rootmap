@@ -1,0 +1,4 @@
+[ libNPMonster.so ]
+# List of selected classes
+class TMonsterData
+header TMonsterData.h
